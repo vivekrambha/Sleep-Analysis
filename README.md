@@ -28,12 +28,4 @@ The analysis revealed various insights:
 Physical Activity: More active individuals tend to have healthier heart rates, better sleep, and lower risk of sleep disorders.
 Occupation and Stress: Occupation-related stress impacts sleep quality, potentially contributing to sleep disorders.
 BMI and Blood Pressure: Higher BMI can influence blood pressure, which is linked to sleep quality.
-The algorithms' performance varied, with the MAHC algorithm showing the highest F1 score, indicating its effectiveness in identifying true relationships within the data.
-
-Summary of Results
-Algorithm	Log-Likelihood	BIC Score	F1 Score
-HC	-3291.824	-4496.936	0.133
-TABU	-3291.824	-4496.936	0.133
-SaiyanH	-3206.532	-4445.832	0.118
-MAHC	-3589.812	-4547.064	0.138
-GES	-3291.824	-4496.936	0.133
+The algorithms' performance varied, with the MAHC algorithm showing the highest F1 score, indicating its effectiveness in identifying true relationships within the data
