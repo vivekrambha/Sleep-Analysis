@@ -1,0 +1,16 @@
+ID,Variable 1,Dependency,Variable 2
+1,Gender,->,Heart_Rate_Category
+2,Gender,->,BMI_Category
+3,Age_Group,->,Blood_Pressure_Category
+4,Age_Group,->,Sleep_Disorder
+5,Occupation,->,Stress_Level_Category
+6,Sleep_Duration_Category,->,Sleep_Quality
+7,Physical_Activity_Category,->,Activity_Level
+8,Physical_Activity_Category,->,Heart_Rate_Category
+9,Stress_Level_Category,->,Sleep_Quality
+10,Stress_Level_Category,->,Blood_Pressure_Category
+11,BMI_Category,->,Blood_Pressure_Category
+12,Blood_Pressure_Category,->,Sleep_Disorder
+13,Heart_Rate_Category,->,Activity_Level
+14,Activity_Level,->,Sleep_Quality
+15,Sleep_Quality,->,Sleep_Disorder

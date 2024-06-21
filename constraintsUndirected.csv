@@ -1,0 +1,9 @@
+﻿ID,Parent,Child
+1,Age_Group,Blood_Pressure_Category
+2,Physical_Activity_Category,Heart_Rate_Category
+3,Stress_Level_Category,Sleep_Quality
+4,BMI_Category,Blood_Pressure_Category
+5,Blood_Pressure_Category,Stress_Level_Category
+6,Sleep_Duration_Category,Sleep_Quality
+7,Occupation,Stress_Level_Category
+8,Sleep_Quality,Sleep_Disorder

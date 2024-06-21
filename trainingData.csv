@@ -1,0 +1,375 @@
+Gender,Age_Group,Occupation,Sleep_Duration_Category,Sleep_Quality,Physical_Activity_Category,Stress_Level_Category,BMI_Category,Blood_Pressure_Category,Heart_Rate_Category,Activity_Level,Sleep_Disorder
+Male,27-34,Software Engineer,Normal (6-8 hours),Fair,Low,Moderate Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Medium,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Very Active (>=10000 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Medium,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Very Active (>=10000 steps),None
+Male,27-34,Sales Representative,Short (<6 hours),Poor,Low,High Stress,Obese,Hypertension Stage 2,High (81-86 bpm),Sedentary (<5000 steps),Sleep Apnea
+Male,27-34,Sales Representative,Short (<6 hours),Poor,Low,High Stress,Obese,Hypertension Stage 2,High (81-86 bpm),Sedentary (<5000 steps),Sleep Apnea
+Male,27-34,Software Engineer,Short (<6 hours),Poor,Low,High Stress,Obese,Hypertension Stage 2,High (81-86 bpm),Sedentary (<5000 steps),Insomnia
+Male,27-34,Teacher,Normal (6-8 hours),Fair,Low,High Stress,Obese,Hypertension Stage 2,High (81-86 bpm),Sedentary (<5000 steps),Insomnia
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,27-34,Nurse,Normal (6-8 hours),Fairly_Poor,Low,High Stress,Normal Weight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),Sleep Apnea
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),Sleep Apnea
+Female,27-34,Nurse,Normal (6-8 hours),Fairly_Poor,Low,High Stress,Normal Weight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),Insomnia
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,27-34,Nurse,Normal (6-8 hours),Fairly_Poor,Low,High Stress,Normal Weight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),Sleep Apnea
+Female,27-34,Nurse,Normal (6-8 hours),Fairly_Poor,Low,High Stress,Normal Weight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),Insomnia
+Female,27-34,Nurse,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal Weight,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),Sleep Apnea
+Male,27-34,Engineer,Normal (6-8 hours),Very_good,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Engineer,Normal (6-8 hours),Very_good,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Accountant,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal Weight,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,27-34,Scientist,Normal (6-8 hours),Fair,Medium,Moderate Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Female,27-34,Scientist,Normal (6-8 hours),Fair,Medium,Moderate Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,27-34,Doctor,Normal (6-8 hours),Fair,Low,High Stress,Normal,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Female,27-34,Scientist,Short (<6 hours),Poor,Low,High Stress,Overweight,Hypertension Stage 1,High (81-86 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,27-34,Scientist,Short (<6 hours),Poor,Low,High Stress,Overweight,Hypertension Stage 1,High (81-86 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Male,35-44,Teacher,Normal (6-8 hours),Good,Low,Moderate Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Teacher,Normal (6-8 hours),Good,Low,Moderate Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Software Engineer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal Weight,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Software Engineer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal Weight,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Good,Medium,Moderate Stress,Obese,Hypertension Stage 1,High (81-86 bpm),Sedentary (<5000 steps),Sleep Apnea
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Teacher,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Teacher,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Teacher,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Teacher,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Teacher,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Teacher,Normal (6-8 hours),Fairly_Poor,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),Sleep Apnea
+Female,35-44,Teacher,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Male,35-44,Teacher,Normal (6-8 hours),Fairly_Poor,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),Insomnia
+Female,35-44,Nurse,Normal (6-8 hours),Fair,Low,Moderate Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal Weight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal Weight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Nurse,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal Weight,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Low Stress,Normal,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),Sleep Apnea
+Female,35-44,Lawyer,Normal (6-8 hours),Good,Medium,Moderate Stress,Obese,Hypertension Stage 1,High (81-86 bpm),Sedentary (<5000 steps),Sleep Apnea
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),Insomnia
+Male,35-44,Engineer,Normal (6-8 hours),Fairly_Poor,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Sedentary (<5000 steps),Insomnia
+Female,35-44,Lawyer,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal Weight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Long (>8 hours),Excellent,High,Low Stress,Normal Weight,Normal,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Long (>8 hours),Excellent,High,Low Stress,Normal Weight,Normal,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal Weight,Normal,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Female,35-44,Accountant,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal Weight,Normal,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),Insomnia
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Moderate Stress,Normal Weight,Elevated,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Good,Medium,Moderate Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Good,Medium,Moderate Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Lawyer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Female,35-44,Teacher,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,35-44,Teacher,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),Insomnia
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),Insomnia
+Male,35-44,Engineer,Normal (6-8 hours),Fair,Medium,High Stress,Normal Weight,Normal,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,Medium,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),None
+Male,35-44,Engineer,Normal (6-8 hours),Very_good,High,Moderate Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Moderately Active (7500-9999 steps),Sleep Apnea
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,35-44,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Engineer,Normal (6-8 hours),Good,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,35-44,Salesperson,Normal (6-8 hours),Fair,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Moderate Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Moderate Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Teacher,Normal (6-8 hours),Good,Low,Low Stress,Overweight,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Manager,Normal (6-8 hours),Good,Medium,Moderate Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Male,45-54,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Obese,Hypertension Stage 2,High (81-86 bpm),Sedentary (<5000 steps),Insomnia
+Female,45-54,Nurse,Short (<6 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Male,45-54,Doctor,Normal (6-8 hours),Good,Medium,Moderate Stress,Obese,Hypertension Stage 2,High (81-86 bpm),Sedentary (<5000 steps),Insomnia
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),None
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Male,45-54,Doctor,Long (>8 hours),Excellent,High,Low Stress,Obese,Hypertension Stage 1,High (81-86 bpm),Sedentary (<5000 steps),Sleep Apnea
+Male,45-54,Doctor,Long (>8 hours),Excellent,High,Low Stress,Obese,Hypertension Stage 1,High (81-86 bpm),Sedentary (<5000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Insomnia
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),None
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Nurse,Normal (6-8 hours),Good,Medium,Moderate Stress,Normal Weight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Nurse,Normal (6-8 hours),Fair,High,High Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Very Active (>=10000 steps),Sleep Apnea
+Female,45-54,Accountant,Normal (6-8 hours),Good,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Accountant,Normal (6-8 hours),Good,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Accountant,Normal (6-8 hours),Good,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Accountant,Normal (6-8 hours),Good,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Accountant,Normal (6-8 hours),Good,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Accountant,Normal (6-8 hours),Good,Low,High Stress,Overweight,Hypertension Stage 1,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),Insomnia
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,45-54,Engineer,Long (>8 hours),Excellent,Low,Low Stress,Normal,Hypertension Stage 1,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Normal (71-80 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Doctor,Long (>8 hours),Excellent,High,Low Stress,Normal Weight,Normal,Low (65-70 bpm),Very Active (>=10000 steps),None
+Female,55-59,Doctor,Long (>8 hours),Excellent,High,Low Stress,Normal Weight,Normal,Low (65-70 bpm),Very Active (>=10000 steps),None
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),None
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
+Female,55-59,Nurse,Long (>8 hours),Excellent,Medium,Low Stress,Overweight,Hypertension Stage 2,Low (65-70 bpm),Lightly Active (5000-7499 steps),Sleep Apnea
